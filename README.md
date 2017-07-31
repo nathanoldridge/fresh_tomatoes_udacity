@@ -6,12 +6,12 @@ Python Project for Udacity Full Stack Nanodegree; Displays info about 4 movies a
 
 First, fork this repository, or Download it as a .zip from Github.
 
-In your Terminal, navigate to the directory where the files were downloaded, and execute  `fresh_tomatoes.py` with your python interpreter.
+In your Terminal, navigate to the directory where the files were downloaded, and execute  `movieObject.py` with your python interpreter.
 
 On a Mac, this means
 
 ```sh
-$ python fresh_tomatoes.py
+$ python movieObject.py
 ```
 
 ## How to Contribute
