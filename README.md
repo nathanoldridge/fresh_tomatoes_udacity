@@ -1,11 +1,18 @@
 # fresh_tomatoes_udacity
-Python Project for Udacity Full Stack Nanodegree; Displays info about 4 movies and loads trailers.
+
+Python Project for Udacity Full Stack Nanodegree; Displays info about 4 movies and loads trailers if clicked.
 
 ## Installation
 
 First, fork this repository, or Download it as a .zip from Github.
 
-In your Terminal, navigate to the directory where the files were downloaded, and execute the fresh_tomatoes.py 
+In your Terminal, navigate to the directory where the files were downloaded, and execute  `fresh_tomatoes.py` with your python interpreter.
+
+On a Mac, this means
+
+```sh
+$ python fresh_tomatoes.py
+```
 
 ## How to Contribute
 
@@ -16,7 +23,7 @@ First, fork this repository.
 Next, clone this repository to your desktop to make changes.
 
 ```sh
-$ git clone {YOUR_REPOSITORY_CLONE_URL}
+$ git clone {git@github.com:nathanoldridge/fresh_tomatoes_udacity.git}
 $ cd fresh_tomatoes_udacity
 ```
 
