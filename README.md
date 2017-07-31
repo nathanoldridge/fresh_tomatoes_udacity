@@ -1,13 +1,17 @@
 # fresh_tomatoes_udacity
 Python Project for Udacity Full Stack Nanodegree; Displays info about 4 movies and loads trailers.
 
+## Installation
+
+First, fork this repository, or Download it as a .zip from Github.
+
+In your Terminal, navigate to the directory where the files were downloaded, and execute the fresh_tomatoes.py 
+
 ## How to Contribute
 
-ontributions are welcome!
+Contributions are welcome!
 
 First, fork this repository.
-
-![Fork Icon](images/fork-icon.png)
 
 Next, clone this repository to your desktop to make changes.
 
@@ -18,18 +22,12 @@ $ cd fresh_tomatoes_udacity
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
 
-![Pull Request Icon](images/pull-request-icon.png)
-
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
 
 ## License
 
-The contents of this repository are covered under the Unlicense
+The contents of this repository are covered under [the Unlicense](https://choosealicense.com/licenses/unlicense/)
 
 ## Contact
 
-Questions, comments and suggestions can be sent to:
-
-Nathan Oldridge
-tnathan.com
-github.com/nathanoldridge/
+Questions, comments and suggestions can be sent to Nathan Oldridge at <http://www.tnathan.com>
